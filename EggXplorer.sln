@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EggXplorer", "EggXplorer.vbproj", "{CD462455-B930-4827-8242-72657F8027FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_EggXplorer", "..\Setup_EggXplorer\Setup_EggXplorer.vdproj", "{C1B6BB85-8344-4C40-841D-8E72ED715802}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06165111-CE13-44A1-A483-58FD3FC2AA34}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD462455-B930-4827-8242-72657F8027FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD462455-B930-4827-8242-72657F8027FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD462455-B930-4827-8242-72657F8027FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD462455-B930-4827-8242-72657F8027FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B6BB85-8344-4C40-841D-8E72ED715802}.Debug|Any CPU.ActiveCfg = Debug
+		{C1B6BB85-8344-4C40-841D-8E72ED715802}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC404CB6-2779-45B5-B104-E1B857467530}
+	EndGlobalSection
+EndGlobal
